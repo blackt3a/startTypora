@@ -18,3 +18,13 @@ typo #打开一个typora编辑文本，等待输入
 typo filename #打开filename的md文件，如果不存在，则自动创建
 ```
 
+
+
+
+
+新增打开okular
+
+```shell
+oku filename
+```
+
