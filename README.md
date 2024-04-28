@@ -12,6 +12,8 @@
 
 ###### 使用
 
+need install the typora or okular first!!
+
 ```shell
 typo #打开一个typora编辑文本，等待输入
 
